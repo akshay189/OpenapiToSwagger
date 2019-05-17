@@ -1,0 +1,8 @@
+com/wavemaker/model/ModelData.class
+com/wavemaker/openapiToswagger/OpenApiToSwaggerConverter.class
+com/wavemaker/openapiToswagger/ModelObjectBuilder.class
+com/wavemaker/openapi/OpenApiModelConverter.class
+com/wavemaker/model/Model.class
+com/wavemaker/utils/FtlUtils.class
+com/wavemaker/utils/FtlConfiguration.class
+com/wavemaker/openapiToswagger/ParameterResolver.class
